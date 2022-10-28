@@ -10,9 +10,8 @@
     margin: auto;
 }
 #character{
-    width: 20px;
+    width: auto;
     height: 50px;
-    background-color: red;
     position:relative;
     top: 150px;
 }
@@ -33,7 +32,7 @@
     position: relative;
     top: 130px;
     left: 500px;
-    animation: block 0.5s infinite linear;
+    animation: block 1s infinite linear;
 }
 @keyframes block{
     0%{left: 500px}
