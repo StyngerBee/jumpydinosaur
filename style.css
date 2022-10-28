@@ -8,13 +8,13 @@
     height: 200px;
     border: 1px solid black;
     margin: auto;
-    background-image: url('./images/genericCity.png');
+    background-image: url('./images/animCity.gif');
 }
 #character{
     width: auto;
     height: 50px;
     position:relative;
-    top: 155px;
+    top: 150px;
 }
 .animate{
     animation: jump 0.3s linear;
